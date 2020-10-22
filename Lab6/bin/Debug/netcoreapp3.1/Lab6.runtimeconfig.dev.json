@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\guyea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\guyea\\.nuget\\packages"
+    ]
+  }
+}

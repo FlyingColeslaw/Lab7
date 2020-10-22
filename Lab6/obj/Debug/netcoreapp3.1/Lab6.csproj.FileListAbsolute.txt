@@ -1,0 +1,13 @@
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\guyea\OneDrive\Desktop\coding\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
